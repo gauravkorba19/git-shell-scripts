@@ -1,3 +1,3 @@
-Name=Gaurav
-Age=24
-Location=Hyderabad
+Name="Gaurav"
+Age="24"
+Location="Hyderabad"
